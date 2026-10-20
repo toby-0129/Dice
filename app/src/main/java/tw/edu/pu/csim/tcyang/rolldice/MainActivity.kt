@@ -64,7 +64,7 @@ fun Dice(modifier: Modifier = Modifier) {
     ) {
 
         Text(
-            text = "請點擊圖片隨機丟骰子\n作者：楊子青"
+            text = "請點擊圖片隨機丟骰子\n作者：王奕勛"
         )
 
         // 增加 20.dp 的垂直間距
